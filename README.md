@@ -2,7 +2,7 @@
 Just a simple task to practice my JavaScript &amp; NodeJS skills. 
 
 This is a simple project to practice what I learned in my JS & NodeJS course.
-It is an imitaion of the Math library in JS.
+It is an imitation of the Math library in JS.
  
 ##### Module : `ourMath` contains three files:
   - `index.js` : where the functions created & exported.
