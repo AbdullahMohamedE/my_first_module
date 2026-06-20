@@ -4,7 +4,7 @@ Just a simple task to practice my JavaScript &amp; NodeJS skills.
 This is a simple project to practice what I learned in my JS & NodeJS course.
 It is an imitaion of the Math library in JS.
  
-##### Module : `ourMath` contains three files
+##### Module : `ourMath` contains three files:
   - `index.js` : where the functions created & exported.
   - `test.js` : applying some simple unit testing to functions.
   - `package.json ` : is the project’s ID file. It stores basic info, startup file, and dependencies.
